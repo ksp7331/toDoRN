@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/toDoRN/static/js/app.c420ff8e.chunk.js",
+    "app.js.map": "/toDoRN/static/js/app.c420ff8e.chunk.js.map",
+    "runtime~app.js": "/toDoRN/static/js/runtime~app.d55d033b.js",
+    "runtime~app.js.map": "/toDoRN/static/js/runtime~app.d55d033b.js.map",
+    "static/js/2.eccc1958.chunk.js": "/toDoRN/static/js/2.eccc1958.chunk.js",
+    "static/js/2.eccc1958.chunk.js.map": "/toDoRN/static/js/2.eccc1958.chunk.js.map",
+    "fonts/AntDesign.ttf": "/toDoRN/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/toDoRN/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/toDoRN/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/toDoRN/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/toDoRN/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/toDoRN/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/toDoRN/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/toDoRN/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/toDoRN/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/toDoRN/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/toDoRN/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/toDoRN/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/toDoRN/favicon-16.png",
+    "favicon-32.png": "/toDoRN/favicon-32.png",
+    "favicon.ico": "/toDoRN/favicon.ico",
+    "index.html": "/toDoRN/index.html",
+    "manifest.json": "/toDoRN/manifest.json",
+    "serve.json": "/toDoRN/serve.json",
+    "static/js/2.eccc1958.chunk.js.LICENSE.txt": "/toDoRN/static/js/2.eccc1958.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.d55d033b.js",
+    "static/js/2.eccc1958.chunk.js",
+    "static/js/app.c420ff8e.chunk.js"
+  ]
+}
